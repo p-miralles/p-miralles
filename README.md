@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?count_private=true?username=p-miralles)](https://github.com/p-miralles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)](https://github.com/p-miralles/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true?username=p-miralles&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 <!--
 **p-miralles/p-miralles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
