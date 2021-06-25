@@ -5,6 +5,11 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 
+### Languajes and Tools
+
+### Connect with me
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
