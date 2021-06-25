@@ -3,6 +3,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles)](https://github.com/p-miralles/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true)
 <!--
 **p-miralles/p-miralles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
