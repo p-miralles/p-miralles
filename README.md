@@ -8,6 +8,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 
 ### Languajes and Tools
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
 
 ### Connect with me
 
