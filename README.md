@@ -26,7 +26,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <img width="44px" src="[postgres]" /> <img width="44px" src=[postgres] />
 <div/>
 
-### FrontEnd Tools
+### Frontend Tools
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
