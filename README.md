@@ -8,19 +8,20 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 
 ### Languajes
+<div>
 <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
      /> <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" 
              /> <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/JAVA.svg" 
                      /> 
-
+<div/>
 
 ### Backend Tools
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img width="44px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" /> 
-<img width="44px" src="" />
 <img width="44px" src="" />
 <img width="44px" src="[postgres]" /> <img width="44px" src=[postgres] />
 <div/>
