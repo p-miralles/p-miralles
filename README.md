@@ -3,7 +3,7 @@
 I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electronic Engineer) and Business (MBA Candidate)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)](https://github.com/p-miralles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 
