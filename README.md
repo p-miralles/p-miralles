@@ -15,7 +15,8 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <img width="44px" src="" />
 
 ### Backend Tools
-<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
+![Image][postgres] ![Image][postgres] 	
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" /> 
@@ -55,3 +56,7 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]:http://linkedin.com/pablo-miralles
+
+
+[postgres]: <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
+
