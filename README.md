@@ -11,7 +11,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
      /> <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" 
              /> <img width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/JAVA.svg" 
-                     /> <img width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+                     /> 
 
 
 ### Backend Tools
@@ -27,7 +27,8 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 
 ### FrontEnd Tools
 <div>
-<img width="44px" src="" />
+<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img width="44px" src="" />
 <img width="44px" src="" />
 <img width="44px" src="" />
