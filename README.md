@@ -10,7 +10,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 ### Languajes
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
-     /> <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" 
+     /> <img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" 
              /> <img width="44px" src="https://cdn.worldvectorlogo.com/logos/java.svg" 
                      /> 
 <div/>
