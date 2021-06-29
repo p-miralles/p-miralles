@@ -10,7 +10,7 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 
 ### Other Tools 
 **Devops** |**Must Toolbox** |
---- | --- | --- |
+--- | --- |
 <img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/245px-Amazon_Web_Services_Logo.svg.png" /> | <img width="44px" src="https://confluence.excentia.es/download/attachments/20025142/JIRADOC?version=3&modificationDate=1526475437000&api=v2" /> <img width="44px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF-H94CHAYN80eT1OJmFBmHOxOT1RCkAxTYcocEEsnLI1nMnVPwK-GZfgmj-44uUhBMURafqESFBk&usqp=CAU"/> <img width="44px" src="https://img.icons8.com/color/452/gitlab.png" /> <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" /> 
  ---
  
