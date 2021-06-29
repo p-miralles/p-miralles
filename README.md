@@ -22,8 +22,7 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 
  Markdown | Frontend Tools | Pretty
 --- | --- | ---
-*Still* | <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />| **nicely**
+*Still* | <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />| **nicely**
 1 | 2 | 3
  
 ### Frontend Tools
