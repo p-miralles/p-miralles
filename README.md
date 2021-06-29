@@ -39,7 +39,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <div/>
 
 ### Connect with me
-<a href="https://www.w3schools.com">
+<a href=https://www.linkedin.com/in/pablo-miralles/">
 <img width="44px" alt="linkedin" href="https://www.linkedin.com/in/pablo-miralles/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
 </a> 
 
