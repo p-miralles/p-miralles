@@ -21,17 +21,14 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <img width="44px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" />
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> 
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img width="44px" src="" />
-<img width="44px" src="[postgres]" /> <img width="44px" src=[postgres] />
+
 <div/>
 
 ### Frontend Tools
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img width="44px" src="" />
-<img width="44px" src="" />
-<img width="44px" src="" />
+
 <div/>
 
 ### Devops Tools
@@ -46,6 +43,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <div/>
 
 ### Connect with me
+<img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
 
 
 
