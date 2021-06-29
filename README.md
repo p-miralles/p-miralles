@@ -38,6 +38,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postman.svg" /> 
 <div/>
  ---
+ 
 ### Connect with me
 <a href="https://www.linkedin.com/in/pablo-miralles/">
 <img width="44px" alt="linkedin" href="https://www.linkedin.com/in/pablo-miralles/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
