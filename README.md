@@ -41,6 +41,9 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 ### Connect with me
 <img width="44px" alt="linkedin" url="https://www.linkedin.com/in/pablo-miralles/" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
 
+      <a href="default.asp">
+  <img src="smiley.gif" alt="HTML tutorial" style="width:42px;height:42px;">
+</a> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)
 
