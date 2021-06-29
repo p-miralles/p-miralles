@@ -13,7 +13,7 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 
  Backend Tools | Less | Pretty
 --- | --- | ---
-![very good|512x397,20%][nodejs] | `renders` | **nicely**
+![very good|512x397,20%][nodejs] | `renders` | ![image][logo]
 1 | 2 | 3
  
  
