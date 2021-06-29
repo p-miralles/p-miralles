@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electronic Engineer) and Business (MBA Candidate)
+I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (MBA Candidate) and IoT (Electronic Engineer). 
 <br />
  ---
 ### Languajes
@@ -27,9 +27,10 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 
 <div/>
 
-### Devops Tools
+### Devops Tools            Must Toolbox
 <img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/245px-Amazon_Web_Services_Logo.svg.png" />
-     
+          <img width="44px" src="https://confluence.excentia.es/download/attachments/20025142/JIRADOC?version=3&modificationDate=1526475437000&api=v2" />
+
 ### Must Toolbox
 <div>
 <img width="44px" src="https://confluence.excentia.es/download/attachments/20025142/JIRADOC?version=3&modificationDate=1526475437000&api=v2" />
