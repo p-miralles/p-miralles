@@ -12,13 +12,13 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 <div/>
 
  Backend Tools | Less | Pretty
- ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =44x)
- ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =44x)| --- | ---
+ ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44)
+ ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44)| --- | ---
 ![very good|512x397,20%][nodejs] | `renders` | ![image][logo]
 1 | 2 | 3
  
  ![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png =44x)
- ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=200)
+ ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44)
 ### Backend Tools
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
