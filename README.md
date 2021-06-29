@@ -1,6 +1,6 @@
 Hi there 👋
 
-I'm Pablo Miralles, a Backend Developer with strong background Business Logic (MBA Candidate) and IoT (Electronic Engineer). 
+I'm Pablo Miralles, a Backend Developer with strong background in Business Logic (MBA Candidate) and IoT (Electronic Engineer). 
 <br />
  ---
 
