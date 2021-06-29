@@ -3,10 +3,6 @@
 I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electronic Engineer) and Business (MBA Candidate)
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
-
 ### Languajes
 <div>
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
@@ -43,16 +39,12 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <div/>
 
 ### Connect with me
-<img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
+<img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />(https://www.linkedin.com/in/pablo-miralles/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=p-miralles&show_icons=true&count_private=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-mirallesa&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=p-miralles&repo=convoychat" />
-</a>
 
 <!--
 **p-miralles/p-miralles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
