@@ -3,16 +3,13 @@
 I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (MBA Candidate) and IoT (Electronic Engineer). 
 <br />
  ---
-### Languajes
-<div>
-<img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
+
+  **Languages** |**Backend Tools** | **Frontend Tools** |
+--- | --- |
+ <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" 
      /> <img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" 
              /> <img width="44px" src="https://cdn.worldvectorlogo.com/logos/java.svg" 
-                     /> 
-<div/>
-
- **Backend Tools** | **Frontend Tools** |
---- | --- |
+                     />|
 <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img width="44px" src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" /> <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />| <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img width="44px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />|
 
 ### Devops Tools      
