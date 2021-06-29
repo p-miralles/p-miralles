@@ -41,6 +41,10 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 ### Connect with me
 <img width="44px" alt="linkedin" rel="https://www.linkedin.com/in/pablo-miralles/" source="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />
 
+           <a href="https://www.qries.com/">
+         <img alt="Qries" src="https://www.qries.com/images/banner_logo.png"
+         width=44" height="44">
+      </a>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)
 
