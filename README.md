@@ -13,7 +13,7 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 
  Backend Tools | Less |
  --- | --- |
- | ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44) ![][nodejs?v=4&s=44]| 
+ | ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44) ![][nodejs]| 
  ![](https://avatars3.githubusercontent.com/u/31112269?v=4&s=44)| --- | ---
 ![very good|512x397,20%][nodejs] | `renders` | ![image][logo]
 1 | 2 | 3
@@ -84,5 +84,5 @@ Here are some ideas to get you started:
 
 
 [postgres]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png
-[nodejs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
+[nodejs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png?v=4&s=44
 [logo]:<img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" 
