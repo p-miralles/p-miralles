@@ -27,9 +27,8 @@ I'm Pablo Miralles, a Backend Developer with strong background Bussines Logic (M
 
 <div/>
 
-### Devops Tools            Must Toolbox
+### Devops Tools      
 <img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/245px-Amazon_Web_Services_Logo.svg.png" />
-          <img width="44px" src="https://confluence.excentia.es/download/attachments/20025142/JIRADOC?version=3&modificationDate=1526475437000&api=v2" />
 
 ### Must Toolbox
 <div>
