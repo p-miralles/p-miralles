@@ -39,8 +39,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in IoT (Electroni
 <div/>
 
 ### Connect with me
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
-[![linkedin](<img width="44px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" />)](https://www.linkedin.com/in/pablo-miralles/)
+<a width="44px"  href="https://www.linkedin.com/in/pablo-miralles/" rel="linkedin">![Foo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png)</a>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p-miralles&count_private=true)
