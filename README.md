@@ -1,6 +1,9 @@
-Hi there 👋
-
+<h2 align="left">
+Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 I'm Pablo Miralles, a Backend Developer with strong background in Business Logic (MBA Candidate) and IoT (Electronic Engineer). 
+</h2>
+
+
 <br />
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Dev%20trending%20to%20Fullstack;English%20|%20Spanish%20|%20German;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
