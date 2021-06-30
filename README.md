@@ -2,7 +2,9 @@ Hi there 👋
 
 I'm Pablo Miralles, a Backend Developer with strong background in Business Logic (MBA Candidate) and IoT (Electronic Engineer). 
 <br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Pablo+Miralles%2C+a+Backend+Developer+with+strong+background+in+Business+Logic+(MBA+Candidate)+and+IoT+(Electronic+Engineer).+)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Dev%20trending%20to%20Front;English |%20%Spanish |%20German;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
 
  ---
 
