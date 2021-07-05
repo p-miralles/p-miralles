@@ -7,7 +7,7 @@ I'm Pablo Miralles, a Backend Developer with strong background in Business Logic
 
 <br />
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Dev%20trending%20to%20Fullstack;English%20|%20Spanish%20|%20German;Always%20learning%20new%20things&center=true&width=390&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Dev%20trending%20to%20Fullstack;English%20|%20Spanish%20|%20German;Always%20learning%20new%20things&center=true&width=410&height=45"></a>
 </p>
 
  ---
