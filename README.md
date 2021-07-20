@@ -56,6 +56,4 @@ Here are some ideas to get you started:
 [nodejs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
 
-
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{p-miralles}/count.svg" /></p> 
+<img align="center" src="https://komarev.com/ghpvc/?username=p-miralles" alt="p-miralles" />
