@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 [nodejs]: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png
 
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=p-miralles.p-miralles" alt="visitor badge"/>
-</p>
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{sanchitvj}/count.svg" /></p> 
