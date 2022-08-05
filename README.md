@@ -24,7 +24,7 @@ I'm Pablo Miralles, a Backend Developer with a strong background in Business Log
 
 ### Connect with me:
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/pablo-miralles/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:pablojosemiralles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="https://bit.ly/CV-Miralles-Pablo"><img src="http://dondehaytrabajo.com/wp-content/uploads/2013/01/logoCV.jpg"></img height="32" width="64"></a>
+<a target="_blank" href="https://www.linkedin.com/in/pablo-miralles/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a> <a target="_blank" href="mailto:pablojosemiralles@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank" href="https://bit.ly/CV-Miralles-Pablo"><img src="[http://dondehaytrabajo.com/wp-content/uploads/2013/01/logoCV.jpg](https://e7.pngegg.com/pngimages/205/491/png-clipart-cv-library-employment-website-curriculum-vitae-recruitment-job-others-miscellaneous-blue-thumbnail.png)"></img height="32" width="64"></a>
 </p>
 
 ---
